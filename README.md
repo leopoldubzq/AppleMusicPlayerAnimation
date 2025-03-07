@@ -9,7 +9,7 @@ This project demonstrates how to build a **music player view** inspired by Apple
 ## 🚀 Features  
 - 🎛 **Custom Player UI** – Inspired by Apple Music  
 - 🎨 **Smooth animations** – Elegant transitions for better UX  
-- 🎯 **Gesture handling** – Drag, tap, and swipe interactions  
+- 🎯 **Gesture handling** – Drag and tap
 - 🔊 **Playback controls** – Play, pause, and progress tracking  
 
 ## 🛠 Technologies  
