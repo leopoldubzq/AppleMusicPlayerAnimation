@@ -17,6 +17,6 @@ This project demonstrates how to build a **music player view** inspired by Apple
 - SwiftUI  
 
 ## 📂 Video tutorial
-https://youtu.be/rIQNdIxrizA
+https://www.youtube.com/watch?v=G-6ZsZT1IQc
 
 💡 If you find this project useful, don’t forget to ⭐ star the repo and subscribe to my channel on [YouTube](https://www.youtube.com/@applusion) for more SwiftUI tutorials! 🚀
